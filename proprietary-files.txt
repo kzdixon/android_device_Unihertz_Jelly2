@@ -87,7 +87,6 @@ lib64/libmdloggerrecycle.so
 lib64/libsysenv_system.so
 
 bin/loghidlsysservice
-bin/AudioSetParam
 bin/lbs_dbg
 bin/lcdc_screen_cap
 bin/memtester
